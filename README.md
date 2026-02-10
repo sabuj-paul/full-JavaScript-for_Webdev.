@@ -1,6 +1,6 @@
 # full-JavaScript-for_Webdev.
 a full javascript repo for web-deb guided by chai or code
-<h1 align="center">Hi 👋, I'm Sabuj </h1>
+<h1 align="center">Hi 👋, I'm Sabuj</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabuj-paul&label=Profile%20views&color=0e75b6&style=flat" alt="sabuj-paul" /> </p>
